@@ -1,0 +1,24 @@
+{
+  "name": "express-shell",
+  "version": "1.0.0",
+  "description": "a simple template for new express apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iethree/express-shell.git"
+  },
+  "author": "RPL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iethree/express-shell/issues"
+  },
+  "homepage": "https://github.com/iethree/express-shell#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "logchalk": "^1.0.1",
+    "morgan": "^1.9.1"
+  }
+}
